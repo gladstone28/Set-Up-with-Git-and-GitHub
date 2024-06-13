@@ -1,4 +1,6 @@
+link to lesson:
 
+https://www.codecademy.com/journeys/full-stack-engineer/paths/fscj-22-building-interactive-websites/tracks/fscj-22-git-and-github-part-i/modules/wdcp-22-introduction-to-github-beddaab4-bbb4-4be7-ba2d-76e9743caac7/articles/f1-u3-git-setup
 
 Set Up with Git and GitHub
 Never fear losing work with this professional versioning system
