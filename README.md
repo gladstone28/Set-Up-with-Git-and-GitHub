@@ -2,33 +2,33 @@ link to lesson:
 
 https://www.codecademy.com/journeys/full-stack-engineer/paths/fscj-22-building-interactive-websites/tracks/fscj-22-git-and-github-part-i/modules/wdcp-22-introduction-to-github-beddaab4-bbb4-4be7-ba2d-76e9743caac7/articles/f1-u3-git-setup
 
-Set Up with Git and GitHub
-Never fear losing work with this professional versioning system
+# Set Up with Git and GitHub
+**Never fear losing work with this professional versioning system**
 
 In this tutorial, we walk through the process for using Git locally on your personal computer and using GitHub to back it up. Specifically, we’ll walk through creating your personal GitHub account, setting up Git on your computer, starting your first Git repository, and connecting that repository to a GitHub repository.
 
 This tutorial assumes that you’ve completed the lessons on Learn the Command Line and Learn Git. Now, prepare to use those skills on your personal computer! If some steps in this tutorial are confusing, have no fear; it will all come together by the end.
 
-What are Git and GitHub?
+## What are Git and GitHub?
 This tutorial refers to Git and GitHub repeatedly. Git is a widely-used version control system used to manage code. Git allows you to save drafts of your code so that you can look back at previous versions and potentially undo complicated errors. A project managed with Git is called a Git repository.
 
 GitHub is a popular hosting service for Git repositories. GitHub allows you to store your local Git repositories in the cloud. With GitHub, you can backup your personal files, share your code, and collaborate with others.
 
 In short, GitHub is a tool for working with Git. There are other services to host Git repositories, but GitHub is a trusted, free service used by organizations across the world, big and small.
 
-Create a GitHub Account
+## Create a GitHub Account
 To use GitHub, you will need a GitHub account.
 
 In your own browser:
 
-Open a new browser tab
-Navigate to https://github.com/
-Create an account
+1. Open a new browser tab
+2. Navigate to https://github.com/
+3. Create an account
 If you already have a GitHub account, continue to the next exercise.
 
 After you sign up, you will receive a verification e-mail. Be sure to verify your e-mail address to GitHub by following the instructions in that e-mail.
 
-Git Setup for Mac and Windows
+## Git Setup for Mac and Windows
 Next, we will set up Git on your personal computer. Follow the instructions for your operating system.
 
 Mac users:
